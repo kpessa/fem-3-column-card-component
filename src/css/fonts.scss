@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap");
+
+$very-light-grey: hsl(0, 0%, 95%);
+$transparent-white: hsla(0, 0%, 100%, 0.75);
+
+body {
+  font-size: 15px;
+}
+
+h1 {
+  font-family: 'Big Shoulders Display';
+  text-transform: uppercase;
+  color: $very-light-grey;
+}
+
+p {
+  color: $transparent-white;
+  font-family: Lexend;
+}

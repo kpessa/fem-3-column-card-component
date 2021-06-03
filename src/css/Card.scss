@@ -1,0 +1,37 @@
+.ccard {
+  padding: 2rem;
+}
+
+.ccard > h1 {
+  font-family: "Big Shoulders Display";
+}
+
+.ccard > p {
+  font-family: "Lexend";
+}
+
+// Desktop
+@media screen and (min-width:768px) {
+  $corner-size:10px;
+  .ccard:first-of-type {
+    border-top-left-radius: $corner-size;
+    border-bottom-left-radius: $corner-size;
+  }
+  .ccard:last-of-type {
+    border-top-right-radius: $corner-size;
+    border-bottom-right-radius: $corner-size;
+  }
+}
+
+// Mobile
+@media screen and (max-width:769px) {
+  $corner-size:10px;
+  .ccard:first-of-type {
+    border-top-left-radius: $corner-size;
+    border-top-right-radius: $corner-size;
+  }
+  .ccard:last-of-type {
+    border-bottom-left-radius: $corner-size;
+    border-bottom-right-radius: $corner-size;
+  }
+}
