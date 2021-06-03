@@ -1,13 +1,9 @@
-.card {
-  all:auto;
-}
-
 @import '../css/fonts.scss';
 
 // Desktop
 @media screen and (min-width:768px) {
   .kcontainer {
-    box-shadow:0 0 10px rgb(87, 82, 82);
+    box-shadow:0 0 20px rgb(87, 82, 82);
     margin-left:2rem;
     margin-right:2rem;
     width:100%;
@@ -19,8 +15,8 @@
   }
   .card-container {
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: stretch;
     margin: 2rem;
     max-width: 768px;
   }
@@ -28,6 +24,10 @@
 
 // Mobile
 @media screen and (max-width:769px) {
+  .kcontainer {
+    overflow: auto;
+    height: 100vh;
+  }
   .card-container {
     display: flex;
     flex-direction: column;
