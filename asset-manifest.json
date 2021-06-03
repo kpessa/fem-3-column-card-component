@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fem-3-column-card-component/static/css/main.dee0438c.chunk.css",
+    "main.js": "/fem-3-column-card-component/static/js/main.ed835384.chunk.js",
+    "main.js.map": "/fem-3-column-card-component/static/js/main.ed835384.chunk.js.map",
+    "runtime-main.js": "/fem-3-column-card-component/static/js/runtime-main.aaf83397.js",
+    "runtime-main.js.map": "/fem-3-column-card-component/static/js/runtime-main.aaf83397.js.map",
+    "static/js/2.70e84845.chunk.js": "/fem-3-column-card-component/static/js/2.70e84845.chunk.js",
+    "static/js/2.70e84845.chunk.js.map": "/fem-3-column-card-component/static/js/2.70e84845.chunk.js.map",
+    "index.html": "/fem-3-column-card-component/index.html",
+    "static/css/main.dee0438c.chunk.css.map": "/fem-3-column-card-component/static/css/main.dee0438c.chunk.css.map",
+    "static/js/2.70e84845.chunk.js.LICENSE.txt": "/fem-3-column-card-component/static/js/2.70e84845.chunk.js.LICENSE.txt",
+    "static/media/icon-luxury.7d6e1aef.svg": "/fem-3-column-card-component/static/media/icon-luxury.7d6e1aef.svg",
+    "static/media/icon-sedans.e7945028.svg": "/fem-3-column-card-component/static/media/icon-sedans.e7945028.svg",
+    "static/media/icon-suvs.058b664c.svg": "/fem-3-column-card-component/static/media/icon-suvs.058b664c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaf83397.js",
+    "static/js/2.70e84845.chunk.js",
+    "static/css/main.dee0438c.chunk.css",
+    "static/js/main.ed835384.chunk.js"
+  ]
+}
